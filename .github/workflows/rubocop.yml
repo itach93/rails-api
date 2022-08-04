@@ -1,6 +1,6 @@
 name: Rubocop
 
-on: push
+on: [push, fork]
 
 jobs:
   build:
